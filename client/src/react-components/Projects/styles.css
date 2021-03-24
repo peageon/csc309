@@ -1,0 +1,31 @@
+.projectsearch__centre {
+    width: 500px;
+    margin-left: 30px;
+    padding-top: 40px;
+    position: absolute;
+    display: inline-block;
+}
+
+.projectsearch__left {
+    float: left;
+    padding-top: 40px;
+    width: 270px;
+    margin-left: 5vw;
+    position: relative;
+}
+
+.projectsearch__new {
+    position: fixed;
+    right: 50px;
+    bottom: 50px;
+    height: 60px;
+    width: 60px;
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 50%;
+    display: block;
+    color: white;
+    background-color: black;
+    text-align: center;
+    line-height: 60px;
+}

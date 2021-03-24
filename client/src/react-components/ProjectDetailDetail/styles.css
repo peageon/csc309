@@ -1,0 +1,33 @@
+.projectdetaildetail {
+    border: 1px solid darkgray;
+}
+
+.projectdetaildetail__title {
+    background-color: lightgray;
+    border: 1px solid darkgray;
+    text-align: center;
+}
+
+.projectdetaildetail__title input {
+    text-align: center;
+    font-size: 18pt;
+    font-weight: bold;
+    height: 20pt;
+}
+
+.projectdetaildetail__body {
+    padding: 10px;
+}
+
+.projectdetaildetail__item {
+    margin-bottom: 10px;
+}
+
+textarea, input {
+    max-width: 95%;
+    resize: none;
+    border-radius: 5px;
+    padding: 5px;
+    border: 1px solid darkgray;
+    min-width: 95%;
+}

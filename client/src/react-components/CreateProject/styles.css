@@ -1,0 +1,20 @@
+.projectdetail__centre {
+    width: 40vw;
+    float: left;
+    padding-top: 60px;
+    position: relative;
+}
+
+.projectdetail__left {
+    float: left;
+    padding-top: 60px;
+    width: 30vw;
+    position: relative;
+}
+
+.projectdetail__right {
+    float: left;
+    padding-top: 60px;
+    width: 30vw;
+    position: relative;
+}

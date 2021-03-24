@@ -1,0 +1,13 @@
+.searchbar {
+    width: 100%;
+    position: relative;
+}
+
+.searchbar input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: lightgray;
+    border: none;
+    font-size: 18px;
+}

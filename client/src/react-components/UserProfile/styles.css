@@ -1,0 +1,16 @@
+.profileform {
+	border-radius: 5px;
+	border: 1px;
+	border-style: solid;
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+	padding: 20px;
+	display: flex;
+}
+.save-button {
+	position: relative;
+	height: 30px;
+	right: 0px;
+	bottom: 0px;
+}

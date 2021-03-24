@@ -1,0 +1,31 @@
+.projectresult {
+    border-bottom: 1px solid darkgray;
+    position: relative;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    line-height: 60px;
+    color: black;
+    background-color: white;
+}
+
+.projectresult__pic {
+    border-radius: 50%;
+    height: 50px;
+    vertical-align: middle;
+}
+
+.projectresult__projectname {
+    font-size: 30px;
+    margin-left: 20px;
+    margin-right: 50px;
+}
+
+.projectresult__skills {
+    font-style: italic;
+}
+
+.projectresult__difficulty {
+    right: 10px;
+    position: absolute;
+}

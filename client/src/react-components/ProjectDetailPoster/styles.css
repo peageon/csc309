@@ -1,0 +1,47 @@
+.projectdetailposter {
+    background-color: lightblue;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 70%;
+    padding: 15px;
+}
+
+.projectdetailposter__title {
+    font-size: 18pt;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.projectdetailposter__user {
+    cursor: pointer;
+    position: relative;
+    text-align: left;
+    margin: auto;
+    width: 150px;
+    line-height: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+  
+.projectdetailposter__userimage {
+    height: 50px;
+    border-radius: 50%;
+    border: 1px solid darkgray;
+}
+  
+.projectdetailposter__username {
+    font-size: 18px;
+    padding: 10px;
+    color: black;
+    position: absolute;
+}
+
+.projectdetailposter__item {
+    padding-bottom: 10px;
+}
+
+.projectdetailposter__heading {
+    font-size: 14pt;
+    font-weight: bold;
+    margin-bottom: 5px;
+}

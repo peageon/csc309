@@ -1,0 +1,19 @@
+/* Styles for the ForgotPassword React component */
+
+.MuiContainer-root {
+  margin-top: 5%;
+}
+
+.MuiButton-root.form-button {
+  background-color: #336699;
+  display: flex;
+  margin-left: auto;
+  margin-top: 5%;
+}
+
+.paper {
+    margin: auto;
+    border-width: thick;
+    padding: 5%;
+    align-items: center;
+}

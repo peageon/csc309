@@ -1,0 +1,65 @@
+/* Header bar styles */
+.header {
+  height: 80px;
+  color: white;
+  background-color: black;
+  padding-left: 10px;
+  box-sizing: border-box;
+}
+
+.header__main {
+  color: white;
+  background-color: black;
+  border-radius: 5px;
+  border: 1px solid white;
+  font-size: 22px;
+  padding: 10px;
+  margin-top: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.header__main--selected, .header__main:hover {
+  background-color: white;
+  color: black;
+}
+
+.header__user {
+  display: inline-block;
+  position: absolute;
+  right: 25%;
+  cursor: pointer;
+  position: absolute;
+}
+
+.header__userimage {
+  height: 50px;
+  margin-top: 15px;
+  border-radius: 50%;
+  right: 0px;
+}
+
+.header__username {
+  font-size: 18px;
+  padding: 10px;
+  margin-top: 15px;
+  position: absolute;
+  color: white;
+}
+
+.header__logout {
+  cursor: pointer;
+  position: absolute;
+  right: 20px;
+  margin-top: 30px;
+  color: white;
+}
+/* End header bar styles  */
+
+.background__image {
+  background-repeat: repeat;
+  width: 100vw;
+  height: 100vw;
+  background-image: url("./background.png");
+}

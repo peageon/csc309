@@ -1,0 +1,11 @@
+.MuiGrid-container {
+  margin-top: 10%;
+}
+
+.paper {
+    margin: auto;
+    border-width: thick;
+    padding: 5%;
+    align-items: center;
+    background-color: lightblue;
+}

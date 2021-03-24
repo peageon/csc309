@@ -1,0 +1,30 @@
+.MuiTypography-root.MuiTypography-body2.error-text {
+  color: red;
+  display: inline;
+}
+
+.paper {
+    margin: auto;
+    border-width: thick;
+    padding: 5%;
+    align-items: center;
+    background-color: lightblue;
+}
+
+.message {
+    margin-top: 20%;
+    border: 10%;
+    border-style: solid groove;
+    padding: 5%;
+    width: 100%;
+    background-color: lightblue;
+}
+
+.line {
+    height: 1px;
+    background-color: black;
+}
+
+.MuiTypography-body2 {
+    min-height: 20px;
+}

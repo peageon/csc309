@@ -1,0 +1,20 @@
+/* Styles for the LoginForm React component */
+
+.MuiButton-root.form-button {
+  background-color: #336699;
+  display: flex;
+  margin-left: auto;
+  margin-top: 5%;
+}
+
+.MuiTypography-root.MuiTypography-body2.error-text {
+  color: red;
+  display: inline;
+}
+
+.paper {
+    margin: auto;
+    border-width: thick;
+    padding: 5%;
+    align-items: center;
+}
